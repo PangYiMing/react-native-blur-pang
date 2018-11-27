@@ -1,0 +1,26 @@
+{
+  "name": "react-native-blur-pang",
+  "version": "1.0.0",
+  "description": "react-native-blur lastest version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PangYiMing/react-native-blur-pang.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component"
+  ],
+  "author": "Lyndon <p995637308@gmail.com> (https://github.com/PangYiMing)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PangYiMing/react-native-blur-pang/issues"
+  },
+  "homepage": "https://github.com/PangYiMing/react-native-blur-pang#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
